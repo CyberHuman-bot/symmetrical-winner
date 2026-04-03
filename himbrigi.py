@@ -1,6 +1,6 @@
 class Emploey():
     def __init__(self,potato):
-        self.potato = self.potato
+        self.potato = potato
     def ptprinto(self):
         print(self.potato)
 class hamburer( Emploey ):
